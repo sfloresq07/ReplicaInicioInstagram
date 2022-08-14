@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  background-color: rgb(245, 245, 245);
+ 
+}
+.main{
+  margin-top: 40px;
+  
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  height: 700px;
+  width: 800px;
+ 
+}
+
+.slider {
+  display: block;
+  justify-content: start;
+  height: 470px;
+  width: 390px;
+}
+.sliderImg {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 0;
+ 
+}
+.transitionImg {
+  display: flex;
+  margin-top: -556px;
+  margin-left: 112px;
+  position: absolute;
+  visibility: visible;
+}
+
+form {
+  
+  display: flex;
+  justify-content: start;
+  text-align: center;
+  height: 550px;
+  width: 390px;
+  margin-top: 15px;
+  
+}
+
+.formData {
+  background: white;
+  width: 340px;
+  height: 380px;
+  border-style: none;
+  border: 1px solid #c1c2be;
+}
+
+.logotipo {
+  width: 170px;
+  margin-top: 50px;
+}
+.text {
+  width: 250px;
+  height: 35px;
+  padding: 0 10px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(231, 235, 218, 0.6);
+  border: 1px solid #c1c2be;
+  border-radius: 3px;
+  outline: 0;
+}
+.password {
+  width: 250px;
+  height: 35px;
+  padding: 0 10px;
+  margin-top: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(231, 235, 218, 0.6);
+  border: 1px solid rgb(193, 194, 190);
+  border-radius: 3px;
+  outline: 0;
+  }
+button {
+  width: 270px;
+  height: 30px;
+  padding: 0 10px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(104, 198, 252, 0.8);
+  border-style: none;
+  border-radius: 5px;
+  color: white;
+  outline: 0;
+}
+.containerOr {
+  width: 265px;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.line {
+  width: 130px;
+  height: 1px;
+  border-style: none;
+  background: #a8a8a8;
+  margin-top: 18px;
+  text-align: justify;
+}
+.circle {
+  font-size: 14px;
+  color: #a8a8a8;
+}
+.icon-fb {
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+  
+}
+
+.containerData {
+  margin-top: 12px;
+}
+.recover {
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.account {
+  background: white;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 395px;
+  width: 340px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #c1c2be;
+}
+
+.regAccount {
+  font-size: 16px;
+  color: #3f3e3e;
+}
+.registration {
+  margin-top: 22px;
+  margin-left: 10px;
+  font-size: 14px;
+  text-decoration: none;
+}
+.download {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 460px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+.app{
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgApp{
+  position: absolute;
+  justify-content: space-between;
+  width: 400px;
+  height: 80px;
+  margin-top: 500px;
+  
+}
+
+.apple {
+  position: absolute;
+  display: flex;
+  width: 50px;
+  height: 40px;
+  margin-top: 20px;
+  object-fit: cover;
+  margin-left: 30px;
+  
+}
+.android {
+  position: absolute ;
+  display: flex;
+  width: 50px;
+  height: 40px;
+  margin-top: 20px;
+  object-fit: cover;
+  margin-left: 180px;
+ 
+}
+.links{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  
+}
+.link{
+  
+  text-decoration: none;
+  font-size: 14px;
+  color: #a8a8a8; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
